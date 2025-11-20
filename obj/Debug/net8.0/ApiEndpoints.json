@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "AppManage.Controllers.LoginController",
+    "Method": "Index",
+    "RelativePath": "Login/Index",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
