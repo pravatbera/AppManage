@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "/erVKmpWRDI=",
+  "dgSpecHash": "3fk/u6AUr2k=",
   "success": true,
   "projectFilePath": "D:\\Pravat\\Demo Project\\AppManage\\AppManage.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Beasdeveloper\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\Beasdeveloper\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",
+    "C:\\Users\\Beasdeveloper\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.1\\microsoft.aspnetcore.authentication.jwtbearer.8.0.1.nupkg.sha512",
     "C:\\Users\\Beasdeveloper\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\8.0.0\\microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
     "C:\\Users\\Beasdeveloper\\.nuget\\packages\\microsoft.bcl.cryptography\\8.0.0\\microsoft.bcl.cryptography.8.0.0.nupkg.sha512",
     "C:\\Users\\Beasdeveloper\\.nuget\\packages\\microsoft.data.sqlclient\\6.1.3\\microsoft.data.sqlclient.6.1.3.nupkg.sha512",

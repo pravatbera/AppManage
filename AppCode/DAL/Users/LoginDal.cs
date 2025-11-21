@@ -9,11 +9,11 @@ namespace AppManage.AppCode.DAL.Users
         public LoginDal(IConfiguration configuration) : base(configuration)
         {
         }
-        internal DataTable UserAuthentication(UserCredential_MD userInfo)
+        internal User UserAuthentication(User userInfo)
         {
             var cmd = NewCommand("get_UserDeatile");
-            cmd.Parameters.AddWithValue("@UserName", userInfo.username);
-            return GetResult(cmd);
+            cmd.Parameters.AddWithValue("@UserName", userInfo.UserName);
+            return GetResult(cmd).Convert<User>().FirstOrDefault(); ;
         }
     }
 }

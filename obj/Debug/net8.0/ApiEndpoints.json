@@ -8,5 +8,21 @@
     "Order": 0,
     "Parameters": [],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AppManage.Controllers.LoginController",
+    "Method": "UserAuthentication",
+    "RelativePath": "Login/UserAuthentication",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Model",
+        "Type": "AppManage.Model.Users.User",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]
