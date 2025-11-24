@@ -27,14 +27,14 @@ namespace AppManage.AppCode.BAL.Users
             var xobj = r.UserAuthentication(Models);
             if (xobj != null)
             {
-                if (xobj != null && xobj.Password == Models.Password)
+                if (xobj.Password == Models.Password)
                 {
                     xobj.Token = GenerateJwtToken(xobj.UserName);
                     return xobj;
                 }
                 else
                 {
-                    throw new AuthenticationException("Invalid Username or Password");
+                    throw new AuthenticationException("Invalid Password");
                 }
             }
             else
