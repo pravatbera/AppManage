@@ -15,5 +15,24 @@ namespace AppManage.AppCode.DAL.Users
             cmd.Parameters.AddWithValue("@UserName", userInfo.UserName);
             return GetResult(cmd).Convert<User>().FirstOrDefault(); ;
         }
+        internal DBMessage UserRegistration(User userInfo)
+        {
+            var cmd = NewCommand("sp_InsertUserRegistration");
+            cmd.Parameters.AddWithValue("@UserID", userInfo.UserID==null?0: userInfo.UserID);
+            cmd.Parameters.AddWithValue("@FirstName", userInfo.FirstName);
+            cmd.Parameters.AddWithValue("@LastName", userInfo.LastName);
+            cmd.Parameters.AddWithValue("@Email", userInfo.Email);
+            cmd.Parameters.AddWithValue("@DOB",
+    userInfo.DOB.HasValue ? userInfo.DOB.Value.ToString("yyyy-MM-dd") : DBNull.Value);
+            cmd.Parameters.AddWithValue("@Phone", userInfo.Phone);
+            cmd.Parameters.AddWithValue("@Address", userInfo.Address);
+            cmd.Parameters.AddWithValue("@LandMark", userInfo.LandMark);
+            cmd.Parameters.AddWithValue("@UserName", userInfo.UserName);
+            cmd.Parameters.AddWithValue("@Password", userInfo.Password);
+            cmd.Parameters.AddWithValue("@ProfileImage", userInfo.ProfileImage);
+            cmd.Parameters.AddWithValue("@IsActive", userInfo.IsActive);
+            cmd.Parameters.AddWithValue("@InsertedBy", 0);
+            return GetResult(cmd).Convert<DBMessage>().FirstOrDefault(); ;
+        }
     }
 }

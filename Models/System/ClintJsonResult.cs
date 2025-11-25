@@ -11,3 +11,8 @@ public class ErrorJsonResult:ClintJsonResult
     public string StackTrace { get; set; }
     public string ReqestedUrl { get; set; }
 }
+public class DBMessage
+{
+    public int code { get; set; }
+    public string msg { get; set; }
+}

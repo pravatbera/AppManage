@@ -25,7 +25,7 @@ namespace AppManage.Model.Users
         public long? UserID { get; set; }
         public int? RoleID { get; set; }
         public string? Role { get; set; }
-        public string? FirseName { get; set; }
+        public string? FirstName { get; set; }
         public string? LastName { get; set; }
         public string? Email { get; set; }
         public DateTime? DOB { get; set; }
@@ -33,6 +33,7 @@ namespace AppManage.Model.Users
         public string? Address { get; set; }
         public string? LandMark { get; set; }
         public string? ProfileImage { get; set; }
+        public IFormFile? file { get; set; }
         public bool? IsActive { get; set; }
     }
 }

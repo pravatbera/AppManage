@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Pravat\\Demo Project\\AppManage\\AppManage.csproj": {}
+    "D:\\Pravat\\Demo Project\\AppManageServer\\AppManage.csproj": {}
   },
   "projects": {
-    "D:\\Pravat\\Demo Project\\AppManage\\AppManage.csproj": {
+    "D:\\Pravat\\Demo Project\\AppManageServer\\AppManage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Pravat\\Demo Project\\AppManage\\AppManage.csproj",
+        "projectUniqueName": "D:\\Pravat\\Demo Project\\AppManageServer\\AppManage.csproj",
         "projectName": "AppManage",
-        "projectPath": "D:\\Pravat\\Demo Project\\AppManage\\AppManage.csproj",
+        "projectPath": "D:\\Pravat\\Demo Project\\AppManageServer\\AppManage.csproj",
         "packagesPath": "C:\\Users\\Beasdeveloper\\.nuget\\packages\\",
-        "outputPath": "D:\\Pravat\\Demo Project\\AppManage\\obj\\",
+        "outputPath": "D:\\Pravat\\Demo Project\\AppManageServer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

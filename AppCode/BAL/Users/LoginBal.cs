@@ -42,6 +42,10 @@ namespace AppManage.AppCode.BAL.Users
                 throw new AuthenticationException("Invalid Username or Password");
             }
         }
+        internal DBMessage UserRegistration(User Models)
+        {
+            return r.UserRegistration(Models);
+        }
 
         private string GenerateJwtToken(string username)
         {
