@@ -69,7 +69,7 @@ namespace AppManage.Controllers
                         await Model.file.CopyToAsync(stream);
                     }
 
-                    Model.ProfileImage = "/AccountImages/" + fileName;  // save path to DB
+                    Model.ProfileImage = "/Document/AccountImages/" + fileName;  // save path to DB
                 }
 
                     var nextRedirect = r.UserRegistration(Model);

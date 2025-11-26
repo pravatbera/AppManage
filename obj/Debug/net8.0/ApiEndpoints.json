@@ -115,5 +115,15 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AppManage.Controllers.Users.UserController",
+    "Method": "UsersDeatiles",
+    "RelativePath": "User/UsersDeatiles",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
   }
 ]
