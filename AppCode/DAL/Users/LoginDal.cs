@@ -23,7 +23,7 @@ namespace AppManage.AppCode.DAL.Users
             cmd.Parameters.AddWithValue("@LastName", userInfo.LastName);
             cmd.Parameters.AddWithValue("@Email", userInfo.Email);
             cmd.Parameters.AddWithValue("@DOB",
-    userInfo.DOB.HasValue ? userInfo.DOB.Value.ToString("yyyy-MM-dd") : DBNull.Value);
+            userInfo.DOB.HasValue ? userInfo.DOB.Value.ToString("yyyy-MM-dd") : DBNull.Value);
             cmd.Parameters.AddWithValue("@Phone", userInfo.Phone);
             cmd.Parameters.AddWithValue("@Address", userInfo.Address);
             cmd.Parameters.AddWithValue("@LandMark", userInfo.LandMark);
@@ -31,7 +31,8 @@ namespace AppManage.AppCode.DAL.Users
             cmd.Parameters.AddWithValue("@Password", userInfo.Password);
             cmd.Parameters.AddWithValue("@ProfileImage", userInfo.ProfileImage);
             cmd.Parameters.AddWithValue("@IsActive", userInfo.IsActive);
-            cmd.Parameters.AddWithValue("@InsertedBy", 0);
+            cmd.Parameters.AddWithValue("@InsertedBy", userInfo.UserID);
+            cmd.Parameters.AddWithValue("@RoleID", userInfo.RoleID);
             return GetResult(cmd).Convert<DBMessage>().FirstOrDefault(); ;
         }
     }

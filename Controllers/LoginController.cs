@@ -72,7 +72,7 @@ namespace AppManage.Controllers
                     Model.ProfileImage = "/Document/AccountImages/" + fileName;  // save path to DB
                 }
 
-                    var nextRedirect = r.UserRegistration(Model);
+                var nextRedirect = r.UserRegistration(Model);
                 objreturn.Data = nextRedirect;
                 objreturn.Message = "Success!";
                 objreturn.Status = HttpStatusCode.OK;

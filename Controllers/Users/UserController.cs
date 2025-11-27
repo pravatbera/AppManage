@@ -1,4 +1,5 @@
-﻿using AppManage.AppCode.BAL.Users;
+﻿using AppManage.AppCode.BAL.Master;
+using AppManage.AppCode.BAL.Users;
 using AppManage.Controllers.System;
 using AppManage.Model.Users;
 using Microsoft.AspNetCore.Http;
@@ -11,10 +12,12 @@ namespace AppManage.Controllers.Users
     [Route("[controller]/[action]")]
     public class UserController : APIBaseController
     {
-        private readonly UserBal r;
+        private readonly UserBal r; 
+        private readonly MasterBal m;
         public UserController(IConfiguration configuration)
         {
             r = new UserBal(configuration);
+            m = new MasterBal(configuration);
         }
         [HttpPost]
         [ActionName("UsersDeatiles")]
@@ -23,6 +26,24 @@ namespace AppManage.Controllers.Users
             try
             {
                 var nextRedirect = r.UsersDeatiles();
+                objreturn.Data = nextRedirect;
+                objreturn.Message = "Success";
+                objreturn.Status = HttpStatusCode.OK;
+            }
+            catch (Exception ex)
+            {
+                objreturn.Message = ex.Message;
+                objreturn.Status = HttpStatusCode.NotFound;
+            }
+            return new JsonResult(objreturn);
+        }
+        [HttpPost]
+        [ActionName("UserRoles")]
+        public IActionResult UserRoles()
+        {
+            try
+            {
+                var nextRedirect = m.get_Role();
                 objreturn.Data = nextRedirect;
                 objreturn.Message = "Success";
                 objreturn.Status = HttpStatusCode.OK;
