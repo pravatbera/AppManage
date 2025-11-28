@@ -31,8 +31,8 @@ namespace AppManage.AppCode.DAL.Users
             cmd.Parameters.AddWithValue("@Password", userInfo.Password);
             cmd.Parameters.AddWithValue("@ProfileImage", userInfo.ProfileImage);
             cmd.Parameters.AddWithValue("@IsActive", userInfo.IsActive);
-            cmd.Parameters.AddWithValue("@InsertedBy", userInfo.UserID);
-            cmd.Parameters.AddWithValue("@RoleID", userInfo.RoleID);
+            cmd.Parameters.AddWithValue("@InsertedBy", userInfo.UserID == null ? DBNull.Value : userInfo.UserID);
+            cmd.Parameters.AddWithValue("@RoleID", userInfo.RoleID == null ? DBNull.Value : userInfo.RoleID);
             return GetResult(cmd).Convert<DBMessage>().FirstOrDefault(); ;
         }
     }
