@@ -20,6 +20,10 @@ namespace AppManage.AppCode.BAL.Master
         {
             return r.get_Role();
         }
+        internal List<Master_Md> get_unit()
+        {
+            return r.get_unit();
+        }
     }
 }
 

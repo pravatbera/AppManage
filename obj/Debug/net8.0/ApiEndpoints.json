@@ -117,6 +117,26 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "AppManage.Controllers.Products.ProductController",
+    "Method": "Products",
+    "RelativePath": "Product/Products",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AppManage.Controllers.Products.ProductController",
+    "Method": "ProductUnit",
+    "RelativePath": "Product/ProductUnit",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "AppManage.Controllers.Users.UserController",
     "Method": "UserRoles",
     "RelativePath": "User/UserRoles",
