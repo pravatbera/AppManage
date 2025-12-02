@@ -62,9 +62,9 @@
               "Title": "ProductController.cs",
               "DocumentMoniker": "D:\\Pravat\\Demo Project\\AppManageServer\\Controllers\\Products\\ProductController.cs",
               "RelativeDocumentMoniker": "Controllers\\Products\\ProductController.cs",
-              "ToolTip": "D:\\Pravat\\Demo Project\\AppManageServer\\Controllers\\Products\\ProductController.cs*",
-              "RelativeToolTip": "Controllers\\Products\\ProductController.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAPAAAAAAAAAA==",
+              "ToolTip": "D:\\Pravat\\Demo Project\\AppManageServer\\Controllers\\Products\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\Products\\ProductController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAowCgAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-02T12:23:40.477Z",
               "EditorCaption": ""
@@ -75,12 +75,11 @@
               "Title": "ProductBal.cs",
               "DocumentMoniker": "D:\\Pravat\\Demo Project\\AppManageServer\\AppCode\\BAL\\Products\\ProductBal.cs",
               "RelativeDocumentMoniker": "AppCode\\BAL\\Products\\ProductBal.cs",
-              "ToolTip": "D:\\Pravat\\Demo Project\\AppManageServer\\AppCode\\BAL\\Products\\ProductBal.cs*",
-              "RelativeToolTip": "AppCode\\BAL\\Products\\ProductBal.cs*",
+              "ToolTip": "D:\\Pravat\\Demo Project\\AppManageServer\\AppCode\\BAL\\Products\\ProductBal.cs",
+              "RelativeToolTip": "AppCode\\BAL\\Products\\ProductBal.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T12:02:14.54Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-02T12:02:14.54Z"
             },
             {
               "$type": "Document",
@@ -88,12 +87,11 @@
               "Title": "ProductDal.cs",
               "DocumentMoniker": "D:\\Pravat\\Demo Project\\AppManageServer\\AppCode\\DAL\\Products\\ProductDal.cs",
               "RelativeDocumentMoniker": "AppCode\\DAL\\Products\\ProductDal.cs",
-              "ToolTip": "D:\\Pravat\\Demo Project\\AppManageServer\\AppCode\\DAL\\Products\\ProductDal.cs*",
-              "RelativeToolTip": "AppCode\\DAL\\Products\\ProductDal.cs*",
+              "ToolTip": "D:\\Pravat\\Demo Project\\AppManageServer\\AppCode\\DAL\\Products\\ProductDal.cs",
+              "RelativeToolTip": "AppCode\\DAL\\Products\\ProductDal.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T12:01:32.156Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-02T12:01:32.156Z"
             },
             {
               "$type": "Document",
@@ -101,12 +99,11 @@
               "Title": "Product_Md.cs",
               "DocumentMoniker": "D:\\Pravat\\Demo Project\\AppManageServer\\Models\\Products\\Product_Md.cs",
               "RelativeDocumentMoniker": "Models\\Products\\Product_Md.cs",
-              "ToolTip": "D:\\Pravat\\Demo Project\\AppManageServer\\Models\\Products\\Product_Md.cs*",
-              "RelativeToolTip": "Models\\Products\\Product_Md.cs*",
+              "ToolTip": "D:\\Pravat\\Demo Project\\AppManageServer\\Models\\Products\\Product_Md.cs",
+              "RelativeToolTip": "Models\\Products\\Product_Md.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T11:04:13.29Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-02T11:04:13.29Z"
             },
             {
               "$type": "Document",
@@ -114,12 +111,11 @@
               "Title": "MasterDal.cs",
               "DocumentMoniker": "D:\\Pravat\\Demo Project\\AppManageServer\\AppCode\\DAL\\Master\\MasterDal.cs",
               "RelativeDocumentMoniker": "AppCode\\DAL\\Master\\MasterDal.cs",
-              "ToolTip": "D:\\Pravat\\Demo Project\\AppManageServer\\AppCode\\DAL\\Master\\MasterDal.cs*",
-              "RelativeToolTip": "AppCode\\DAL\\Master\\MasterDal.cs*",
+              "ToolTip": "D:\\Pravat\\Demo Project\\AppManageServer\\AppCode\\DAL\\Master\\MasterDal.cs",
+              "RelativeToolTip": "AppCode\\DAL\\Master\\MasterDal.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T09:56:54.608Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-02T09:56:54.608Z"
             },
             {
               "$type": "Document",
@@ -131,8 +127,7 @@
               "RelativeToolTip": "AppCode\\BAL\\Users\\UserBal.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T10:13:34.783Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-26T10:13:34.783Z"
             },
             {
               "$type": "Document",
@@ -168,8 +163,7 @@
               "RelativeToolTip": "Controllers\\Users\\UserController.cs",
               "ViewState": "AgIAACQAAAAAAAAAAAAywDgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T10:17:00.601Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-26T10:17:00.601Z"
             },
             {
               "$type": "Document",
