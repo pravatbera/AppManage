@@ -8,5 +8,6 @@
         public decimal Price { get; set; }
         public bool IsActive { get; set; }
         public long UserID { get; set; }
+        public string? UnitShortName { get; set; }
     }
 }
