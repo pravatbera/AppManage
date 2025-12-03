@@ -50,7 +50,7 @@ namespace AppManage.Controllers
         }
         [HttpPost]
         [ActionName("UserRegistration")]
-        public async Task<IActionResult> UserRegistration([FromForm] User Model)
+        public async Task<IActionResult> UserRegistration([FromBody] User Model)
         {
             try
             {

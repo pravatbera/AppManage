@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "XP5DF8jT56hHGeJfyQqIElMixLH3gvcsXlT9dxQ2QtY=",
+  "Hash": "4sRObo9r+jWJYkdYAqgJ9jr9IHRx5DqWtx009L5a7lA=",
   "Source": "AppManage",
   "BasePath": "_content/AppManage",
   "Mode": "Default",
@@ -1343,7 +1343,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Nov 2025 13:20:23 GMT"
+          "Value": "Wed, 03 Dec 2025 06:43:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1388,7 +1388,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Nov 2025 13:20:23 GMT"
+          "Value": "Wed, 03 Dec 2025 06:43:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1433,7 +1433,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Nov 2025 13:20:23 GMT"
+          "Value": "Wed, 03 Dec 2025 06:43:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1470,7 +1470,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Nov 2025 13:20:23 GMT"
+          "Value": "Wed, 03 Dec 2025 06:43:04 GMT"
         },
         {
           "Name": "Cache-Control",

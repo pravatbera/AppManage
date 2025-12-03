@@ -2,6 +2,8 @@
 using AppManage.AppCode.BAL.Products;
 using AppManage.AppCode.BAL.Users;
 using AppManage.Controllers.System;
+using AppManage.Model.Users;
+using AppManage.Models.Products;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System.Net;
@@ -44,6 +46,24 @@ namespace AppManage.Controllers.Products
             try
             {
                 var nextRedirect = r.get_products();
+                objreturn.Data = nextRedirect;
+                objreturn.Message = "Success";
+                objreturn.Status = HttpStatusCode.OK;
+            }
+            catch (Exception ex)
+            {
+                objreturn.Message = ex.Message;
+                objreturn.Status = HttpStatusCode.NotFound;
+            }
+            return new JsonResult(objreturn);
+        }
+        [HttpPost]
+        [ActionName("AddEditProduct")]
+        public async Task<IActionResult> AddEditProduct([FromBody] Product_Md Model)
+        {
+            try
+            {
+                var nextRedirect = r.insert_Mst_Product(Model);
                 objreturn.Data = nextRedirect;
                 objreturn.Message = "Success";
                 objreturn.Status = HttpStatusCode.OK;

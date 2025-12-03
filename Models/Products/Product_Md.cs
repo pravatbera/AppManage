@@ -7,5 +7,6 @@
         public int UnitID { get; set; }
         public decimal Price { get; set; }
         public bool IsActive { get; set; }
+        public long UserID { get; set; }
     }
 }

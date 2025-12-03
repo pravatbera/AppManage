@@ -19,5 +19,9 @@ namespace AppManage.AppCode.BAL.Products
         {
             return r.get_products();
         }
+        internal DBMessage insert_Mst_Product(Product_Md model)
+        {
+            return r.insert_Mst_Product(model);
+        }
     }
 }

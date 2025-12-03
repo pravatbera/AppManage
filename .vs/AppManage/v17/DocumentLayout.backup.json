@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{74FBD2BE-5618-4CBC-8943-4E152E54B88C}|AppManage.csproj|solutionrelative:controllers\\products\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74FBD2BE-5618-4CBC-8943-4E152E54B88C}|AppManage.csproj|d:\\pravat\\demo project\\appmanageserver\\controllers\\users\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74FBD2BE-5618-4CBC-8943-4E152E54B88C}|AppManage.csproj|solutionrelative:controllers\\users\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{74FBD2BE-5618-4CBC-8943-4E152E54B88C}|AppManage.csproj|d:\\pravat\\demo project\\appmanageserver\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74FBD2BE-5618-4CBC-8943-4E152E54B88C}|AppManage.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74FBD2BE-5618-4CBC-8943-4E152E54B88C}|AppManage.csproj|d:\\pravat\\demo project\\appmanageserver\\appcode\\dal\\master\\masterdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74FBD2BE-5618-4CBC-8943-4E152E54B88C}|AppManage.csproj|solutionrelative:appcode\\dal\\master\\masterdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{74FBD2BE-5618-4CBC-8943-4E152E54B88C}|AppManage.csproj|d:\\pravat\\demo project\\appmanageserver\\models\\products\\product_md.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74FBD2BE-5618-4CBC-8943-4E152E54B88C}|AppManage.csproj|solutionrelative:models\\products\\product_md.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{74FBD2BE-5618-4CBC-8943-4E152E54B88C}|AppManage.csproj|d:\\pravat\\demo project\\appmanageserver\\appcode\\bal\\products\\productbal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,24 +23,20 @@
       "RelativeMoniker": "D:0:0:{74FBD2BE-5618-4CBC-8943-4E152E54B88C}|AppManage.csproj|solutionrelative:appcode\\dal\\products\\productdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74FBD2BE-5618-4CBC-8943-4E152E54B88C}|AppManage.csproj|d:\\pravat\\demo project\\appmanageserver\\appcode\\bal\\users\\userbal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74FBD2BE-5618-4CBC-8943-4E152E54B88C}|AppManage.csproj|solutionrelative:appcode\\bal\\users\\userbal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{74FBD2BE-5618-4CBC-8943-4E152E54B88C}|AppManage.csproj|d:\\pravat\\demo project\\appmanageserver\\appcode\\dal\\master\\masterdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74FBD2BE-5618-4CBC-8943-4E152E54B88C}|AppManage.csproj|solutionrelative:appcode\\dal\\master\\masterdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74FBD2BE-5618-4CBC-8943-4E152E54B88C}|AppManage.csproj|d:\\pravat\\demo project\\appmanageserver\\models\\products\\product_md.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74FBD2BE-5618-4CBC-8943-4E152E54B88C}|AppManage.csproj|solutionrelative:models\\products\\product_md.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{74FBD2BE-5618-4CBC-8943-4E152E54B88C}|AppManage.csproj|d:\\pravat\\demo project\\appmanageserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{74FBD2BE-5618-4CBC-8943-4E152E54B88C}|AppManage.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74FBD2BE-5618-4CBC-8943-4E152E54B88C}|AppManage.csproj|d:\\pravat\\demo project\\appmanageserver\\appcode\\dal\\users\\logindal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74FBD2BE-5618-4CBC-8943-4E152E54B88C}|AppManage.csproj|solutionrelative:appcode\\dal\\users\\logindal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{74FBD2BE-5618-4CBC-8943-4E152E54B88C}|AppManage.csproj|d:\\pravat\\demo project\\appmanageserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74FBD2BE-5618-4CBC-8943-4E152E54B88C}|AppManage.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74FBD2BE-5618-4CBC-8943-4E152E54B88C}|AppManage.csproj|d:\\pravat\\demo project\\appmanageserver\\appcode\\bal\\users\\loginbal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74FBD2BE-5618-4CBC-8943-4E152E54B88C}|AppManage.csproj|solutionrelative:appcode\\bal\\users\\loginbal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74FBD2BE-5618-4CBC-8943-4E152E54B88C}|AppManage.csproj|d:\\pravat\\demo project\\appmanageserver\\appcode\\dal\\users\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74FBD2BE-5618-4CBC-8943-4E152E54B88C}|AppManage.csproj|solutionrelative:appcode\\dal\\users\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{74FBD2BE-5618-4CBC-8943-4E152E54B88C}|AppManage.csproj|d:\\pravat\\demo project\\appmanageserver\\controllers\\users\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74FBD2BE-5618-4CBC-8943-4E152E54B88C}|AppManage.csproj|solutionrelative:controllers\\users\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{74FBD2BE-5618-4CBC-8943-4E152E54B88C}|AppManage.csproj|d:\\pravat\\demo project\\appmanageserver\\models\\system\\exception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,17 +50,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Pravat\\Demo Project\\AppManageServer\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Pravat\\Demo Project\\AppManageServer\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-03T07:25:42.634Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ProductController.cs",
               "DocumentMoniker": "D:\\Pravat\\Demo Project\\AppManageServer\\Controllers\\Products\\ProductController.cs",
               "RelativeDocumentMoniker": "Controllers\\Products\\ProductController.cs",
-              "ToolTip": "D:\\Pravat\\Demo Project\\AppManageServer\\Controllers\\Products\\ProductController.cs",
-              "RelativeToolTip": "Controllers\\Products\\ProductController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAowCgAAAAdAAAAAAAAAA==",
+              "ToolTip": "D:\\Pravat\\Demo Project\\AppManageServer\\Controllers\\Products\\ProductController.cs*",
+              "RelativeToolTip": "Controllers\\Products\\ProductController.cs*",
+              "ViewState": "AgIAADsAAAAAAAAAAAAxwD0AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-02T12:23:40.477Z",
               "EditorCaption": ""
@@ -77,7 +86,7 @@
               "RelativeDocumentMoniker": "AppCode\\BAL\\Products\\ProductBal.cs",
               "ToolTip": "D:\\Pravat\\Demo Project\\AppManageServer\\AppCode\\BAL\\Products\\ProductBal.cs",
               "RelativeToolTip": "AppCode\\BAL\\Products\\ProductBal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAIA3wBcAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-02T12:02:14.54Z",
               "EditorCaption": ""
@@ -90,77 +99,66 @@
               "RelativeDocumentMoniker": "AppCode\\DAL\\Products\\ProductDal.cs",
               "ToolTip": "D:\\Pravat\\Demo Project\\AppManageServer\\AppCode\\DAL\\Products\\ProductDal.cs",
               "RelativeToolTip": "AppCode\\DAL\\Products\\ProductDal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswBAAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-02T12:01:32.156Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Product_Md.cs",
               "DocumentMoniker": "D:\\Pravat\\Demo Project\\AppManageServer\\Models\\Products\\Product_Md.cs",
               "RelativeDocumentMoniker": "Models\\Products\\Product_Md.cs",
               "ToolTip": "D:\\Pravat\\Demo Project\\AppManageServer\\Models\\Products\\Product_Md.cs",
               "RelativeToolTip": "Models\\Products\\Product_Md.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-02T11:04:13.29Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "MasterDal.cs",
               "DocumentMoniker": "D:\\Pravat\\Demo Project\\AppManageServer\\AppCode\\DAL\\Master\\MasterDal.cs",
               "RelativeDocumentMoniker": "AppCode\\DAL\\Master\\MasterDal.cs",
               "ToolTip": "D:\\Pravat\\Demo Project\\AppManageServer\\AppCode\\DAL\\Master\\MasterDal.cs",
               "RelativeToolTip": "AppCode\\DAL\\Master\\MasterDal.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-02T09:56:54.608Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UserBal.cs",
-              "DocumentMoniker": "D:\\Pravat\\Demo Project\\AppManageServer\\AppCode\\BAL\\Users\\UserBal.cs",
-              "RelativeDocumentMoniker": "AppCode\\BAL\\Users\\UserBal.cs",
-              "ToolTip": "D:\\Pravat\\Demo Project\\AppManageServer\\AppCode\\BAL\\Users\\UserBal.cs",
-              "RelativeToolTip": "AppCode\\BAL\\Users\\UserBal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\Pravat\\Demo Project\\AppManageServer\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "D:\\Pravat\\Demo Project\\AppManageServer\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAIwDQAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T10:13:34.783Z",
+              "WhenOpened": "2025-12-03T07:23:40.657Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UserDal.cs",
-              "DocumentMoniker": "D:\\Pravat\\Demo Project\\AppManageServer\\AppCode\\DAL\\Users\\UserDal.cs",
-              "RelativeDocumentMoniker": "AppCode\\DAL\\Users\\UserDal.cs",
-              "ToolTip": "D:\\Pravat\\Demo Project\\AppManageServer\\AppCode\\DAL\\Users\\UserDal.cs",
-              "RelativeToolTip": "AppCode\\DAL\\Users\\UserDal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Pravat\\Demo Project\\AppManageServer\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Pravat\\Demo Project\\AppManageServer\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAxwD4AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T10:11:07.828Z"
+              "WhenOpened": "2025-12-03T07:02:11.4Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "LoginBal.cs",
-              "DocumentMoniker": "D:\\Pravat\\Demo Project\\AppManageServer\\AppCode\\BAL\\Users\\LoginBal.cs",
-              "RelativeDocumentMoniker": "AppCode\\BAL\\Users\\LoginBal.cs",
-              "ToolTip": "D:\\Pravat\\Demo Project\\AppManageServer\\AppCode\\BAL\\Users\\LoginBal.cs",
-              "RelativeToolTip": "AppCode\\BAL\\Users\\LoginBal.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAzwC4AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T08:48:47.18Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "UserController.cs",
               "DocumentMoniker": "D:\\Pravat\\Demo Project\\AppManageServer\\Controllers\\Users\\UserController.cs",
               "RelativeDocumentMoniker": "Controllers\\Users\\UserController.cs",
@@ -168,24 +166,11 @@
               "RelativeToolTip": "Controllers\\Users\\UserController.cs",
               "ViewState": "AgIAACQAAAAAAAAAAAAywDgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T10:17:00.601Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-26T10:17:00.601Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "LoginDal.cs",
-              "DocumentMoniker": "D:\\Pravat\\Demo Project\\AppManageServer\\AppCode\\DAL\\Users\\LoginDal.cs",
-              "RelativeDocumentMoniker": "AppCode\\DAL\\Users\\LoginDal.cs",
-              "ToolTip": "D:\\Pravat\\Demo Project\\AppManageServer\\AppCode\\DAL\\Users\\LoginDal.cs",
-              "RelativeToolTip": "AppCode\\DAL\\Users\\LoginDal.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAkwCQAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T10:11:46.988Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "Exception.cs",
               "DocumentMoniker": "D:\\Pravat\\Demo Project\\AppManageServer\\Models\\System\\Exception.cs",
               "RelativeDocumentMoniker": "Models\\System\\Exception.cs",

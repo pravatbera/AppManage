@@ -14,5 +14,17 @@ namespace AppManage.AppCode.DAL.Products
             var cmd = NewCommand("get_products");
             return GetResult(cmd).Convert<Product_Md>(); ;
         }
+        internal DBMessage insert_Mst_Product(Product_Md model)
+        {
+            var cmd = NewCommand("insert_Mst_Product");
+            cmd.Parameters.AddWithValue("@ProductID", model.ProductID);
+            cmd.Parameters.AddWithValue("@ProductName", model.ProductName);
+            cmd.Parameters.AddWithValue("@UnitID", model.UnitID);
+            cmd.Parameters.AddWithValue("@Price", model.Price);
+            cmd.Parameters.AddWithValue("@IsActive", model.IsActive);
+            cmd.Parameters.AddWithValue("@InsertedBy", model.UserID);
+            return GetResult(cmd).Convert<DBMessage>().FirstOrDefault();
+        }
+
     }
 }
